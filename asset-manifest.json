@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cubixcraft-app/static/css/main.e6c13ad2.css",
+    "main.js": "/cubixcraft-app/static/js/main.bc764b47.js",
+    "static/js/787.e60a5bb9.chunk.js": "/cubixcraft-app/static/js/787.e60a5bb9.chunk.js",
+    "index.html": "/cubixcraft-app/index.html",
+    "main.e6c13ad2.css.map": "/cubixcraft-app/static/css/main.e6c13ad2.css.map",
+    "main.bc764b47.js.map": "/cubixcraft-app/static/js/main.bc764b47.js.map",
+    "787.e60a5bb9.chunk.js.map": "/cubixcraft-app/static/js/787.e60a5bb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bc764b47.js"
+  ]
+}
