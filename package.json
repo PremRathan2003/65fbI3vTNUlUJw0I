@@ -1,8 +1,8 @@
 {
   "name": "cubixcraft-app",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://PremRathan2003.github.io/cubixcraft-app",
+  "private": false,
+  "homepage": "https://premrathan2003.github.io/65fbI3vTNUlUJw0I/",
   "dependencies": {
     "16": "^0.0.2",
     "@testing-library/jest-dom": "^5.17.0",

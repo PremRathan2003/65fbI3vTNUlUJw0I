@@ -6,7 +6,7 @@ import BMICalculator from './components/BMICalculator'
 const App = () => (
     <Switch>
       <Route exact path="/" component={LandingPage} />
-      <Route path="/bmi-calculator" component={BMICalculator} />
+      <Route exact path="/bmi-calculator" component={BMICalculator} />
     </Switch>
 )
 
