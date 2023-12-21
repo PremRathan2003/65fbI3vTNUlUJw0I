@@ -14,7 +14,7 @@
 - I have research on this problem and installed older versions and make many changes in App.test.js file But it wasn't figure out the problem
 
 ## New Skills Acquired
-- GitHub Page: I Didn't Deploy my app thourgh GitHub page from this assignment I have acquired that.
+- GitHub Page: I  Deploy my app thourgh GitHub page from this assignment I have acquired that.
 - Resume Download Option: From this I Acquired how to Add our resume in the Page.
 
 ## Conclusion
